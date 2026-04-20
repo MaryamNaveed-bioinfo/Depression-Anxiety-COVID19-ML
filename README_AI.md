@@ -18,7 +18,7 @@
 10. [License](#license)
 
 ## Project Overview
-This project predicts depression and anxiety risk among the Pakistani population during COVID-19 using survey data collected via the Hospital Anxiety and Depression Scale (HADS). Machine Learning models — Logistic Regression and Random Forest — were applied for binary classification of mental health risk.
+This project predicts depression and anxiety risk among the Pakistani population during COVID-19 using survey data collected via the Hospital Anxiety and Depression Scale (HADS). Machine Learning models -Logistic Regression and Random Forest — were applied for binary classification of mental health risk.
 
 This project demonstrates:
 - Data preprocessing and cleaning
@@ -101,11 +101,6 @@ jupyter notebook ai_terminal.ipynb
 - [Seaborn](https://seaborn.pydata.org/) — Statistical visualizations
 - [Jupyter](https://jupyter.org/) — Interactive notebook environment
 
-## Team
-| Name | Registration Number |
-|---|---|
-| Hira Ilyas | SP23-BSI-021 |
-| Maryam Naveed | SP23-BSI-030 |
 
 ## License
 This project is open-source and available under the MIT License.
